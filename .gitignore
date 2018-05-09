@@ -1,0 +1,14 @@
+# Lambda
+.env
+deploy.env
+event.json
+.lambda
+
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
